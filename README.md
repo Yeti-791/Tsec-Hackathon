@@ -1,5 +1,5 @@
-# Tsec-Hackathon - 腾讯智能渗透黑客松赛事仓库
-### Tencent Intelligent Penetration Agent Challenge
+# Tsec-Hackathon - 腾讯智能渗透黑客松赛
+### Tencent Intelligent Penetration Agent Hackathon
 
 
 本仓库为**腾讯智能渗透黑客松**官方赛事资源仓，核心存放首届智能渗透黑客松获奖团队答辩PPT、赛事物料及相关技术资料，同时整合赛事前十优秀团队的开源项目仓库地址，打造**智能渗透Agent领域一站式导航页面**，助力网络安全从业者学习、交流与创新。
