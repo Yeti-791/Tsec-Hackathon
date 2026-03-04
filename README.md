@@ -29,22 +29,26 @@
 - **官方赛事页**：[腾讯智能渗透挑战赛](https://zc.tencent.com/competition/competitionHackathon?code=cha004)
 - **答辩视频列表**：[腾讯云智能渗透挑战赛系列](https://space.bilibili.com/3690981341792399/lists/5042715?type=series)
 
-## 前十优秀团队项目导航 / Top 10 Teams Project Navigation
+## 前20优秀团队项目 / Top 10 Teams Project Navigation
 
 本板块为赛事线上排名前十的优秀团队开源项目仓库导航，涵盖智能渗透Agent的核心设计思路、技术实现与实战方案，是学习智能渗透技术的核心参考资源，排名按赛事最终成绩排序：
 
-|排名|团队名称|核心技术亮点|开源项目仓库地址|
-|---|---|---|---|
-|1|长亭外|基于场景感知的下一代黑盒渗透方案|待同步（赛事官方公示）|
-|2|xjtuHunter|基于状态感知与因果推理的自主渗透测试智能体|[xjtuHunter 项目仓库](https://github.com/xjtuHunter)|
-|3|BinX|100 Lines，Zero Tuning，Fully AI-Driven|[LuaN1aoAgent 项目仓库](https://github.com/SanMuzZzZz/LuaN1aoAgent)|
-|4|Antix|AI原生的进攻性安全基座，重构全流程攻击链基础设施|[ChainReactors/Antix 项目仓库](https://github.com/chainreactors)|
-|5|Pachinko|多智能体协同驱动的自主进化渗透系统，策略化渗透路径|待同步（赛事官方公示）|
-|6|NeuroSploit|具备认知能力的渗透智能体，AI自主规划与深度理解|[Neuro-Sploit 项目仓库](https://github.com/Neuro-Sploit)|
-|7|ai 小分队|AI 渗透的“蜂群思维”|[xbow-competition 项目仓库](https://github.com/m-sec-org/xbow-competition)|
-|8|D@wnEdg3|Cruiser: CTF Agent实现探索，实战攻防能力智能化演进|[Cruiser Agent 项目仓库](https://github.com/TJR181/Cruiser_public)|
-|9|yhy|ChYing Agent：人机协作下的CTF自动化实践|[CHYing-Agent 项目仓库](https://github.com/yhy0/CHYing-agent)|
-|10|sickhack|finds a way，AI驱动的安全自动化工具研发|[SickHackShark 项目仓库](https://github.com/SickHackPark/SickHackShark)|
+|团队名称|核心技术亮点|仓库地址|
+|---|---|---|
+|xjtuHunter|基于状态感知与因果推理的自主渗透测试智能体|[xjtuHunter](https://github.com/xjtuHunter)|
+|BinX|100 Lines，Zero Tuning，Fully AI-Driven|[LuaN1aoAgent](https://github.com/SanMuzZzZz/LuaN1aoAgent)|
+|Antix|AI原生的进攻性安全基座，重构全流程攻击链基础设施|[ChainReactors/Antix](https://github.com/chainreactors)|
+|NeuroSploit|具备认知能力的渗透智能体，AI自主规划与深度理解|[Neuro-Sploit](https://github.com/Neuro-Sploit)|
+|ai 小分队|AI 渗透的“蜂群思维”|[xbow-competition 项目仓库](https://github.com/m-sec-org/xbow-competition)|
+|D@wnEdg3|Cruiser: CTF Agent实现探索，实战攻防能力智能化演进|[Cruiser Agent](https://github.com/TJR181/Cruiser_public)|
+|yhy|ChYing Agent：人机协作下的CTF自动化实践|[CHYing-Agent](https://github.com/yhy0/CHYing-agent)|
+|sickhack|finds a way，AI驱动的安全自动化工具研发|[SickHackShark](https://github.com/SickHackPark/SickHackShark)|
+|小白战队|基于go语言构建，集成了100多种安全工具|[CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI)|
+|华科金银湖|基于CrewAI的ReAct架构，重方法论引导的多Agent|[newmapta](https://github.com/HUST-JYHLab/newmapta)|
+|瀚海星云|多Agent安全测试系统|[sub-agent-autopt](https://github.com/yyy1mu/sub-agent-autopt)|
+|HRP(Nepnep)|全异步架构、三层智能决策、50+攻击知识库|[H-Pentest](https://github.com/hexian2001/H-Pentest)|
+|中传C1JC战队|基于OODA的迭代式笔记本问题求解自主代理|[AgentNote](https://github.com/C1JC/AgentNote)|
+|基米牌南北绿豆好吃吗|专为CTF设计的可扩展AI Agent|[BUUCTF_Agent](https://github.com/MuWinds/BUUCTF_Agent)|
 
 ### 团队特色简介 / Team Feature Introduction
 
