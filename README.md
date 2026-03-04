@@ -26,8 +26,8 @@
 
 - **评分规则**：最终成绩 = 线上赛FLAG得分（50%）+ 线下答辩成绩（50%）
 
-- **官方赛事页**：[腾讯智能渗透挑战赛](https://zc.tencent.com/competition/competitionHackathon?code=cha004)
-- **答辩视频列表**：[腾讯云智能渗透挑战赛系列](https://space.bilibili.com/3690981341792399/lists/5042715?type=series)
+- **官方赛事页**：[https://zc.tencent.com/competition/competitionHackathon?code=cha004](https://zc.tencent.com/competition/competitionHackathon?code=cha004)
+- **答辩视频列表**：[https://space.bilibili.com/3690981341792399/lists/5042715?type=series](https://space.bilibili.com/3690981341792399/lists/5042715?type=series)
 
 ## 前20优秀团队项目 / Top 10 Teams Project Navigation
 
