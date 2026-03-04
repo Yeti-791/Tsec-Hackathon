@@ -1,4 +1,4 @@
-# Tsec-Hackathon - 腾讯智能渗透黑客松赛
+# Tsec-Hackathon - 腾讯智能渗透黑客松
 ### Tencent Intelligent Penetration Agent Hackathon
 
 
