@@ -1,56 +1,63 @@
-# Tsec-Hackathon - 腾讯智能渗透黑客松
-### Tencent Intelligent Penetration Agent Hackathon
+# Tsec-Hackathon - 腾讯云智能渗透黑客松
+### Tencent Cloud Intelligent Penetration Agent Hackathon
 
 
-本仓库为**腾讯智能渗透黑客松**官方赛事资源仓，核心存放首届智能渗透黑客松获奖团队答辩PPT、赛事物料及相关技术资料，同时整合赛事前二十优秀团队的开源项目仓库地址，打造**智能渗透Agent领域一站式导航页面**，助力网络安全从业者学习、交流与创新。
+本仓库为**腾讯云智能渗透黑客松**官方赛事资源仓，存放黑客松获奖团队答辩PPT、赛事物料及相关技术资料，同时整合赛事前二十优秀团队的开源项目仓库地址，打造**智能渗透Agent领域一站式导航页面**，助力网络安全从业者学习、交流与创新。
 
-###### _This repository is the official event resource warehouse for Tencent Intelligent Penetration Hackathon, which mainly stores the defense PPTs, event materials and related technical documents of the winning teams of the first Intelligent Penetration Hackathon. It also integrates the open source project repository addresses of the top 10 outstanding teams in the event to build a one-stop navigation page for the field of Intelligent Penetration Agent, helping cybersecurity practitioners learn, communicate and innovate._
+###### _This repository is the official event resource warehouse for Tencent Cloud Intelligent Penetration Hackathon, which mainly stores the defense PPTs, event materials and related technical documents of the winning teams of the first Intelligent Penetration Hackathon. It also integrates the open source project repository addresses of the top 10 outstanding teams in the event to build a one-stop navigation page for the field of Intelligent Penetration Agent, helping cybersecurity practitioners learn, communicate and innovate._
 
 ## 赛事介绍 / Event Introduction
 
-腾讯智能渗透黑客松以 **「AI驱动安全未来 与XBOW共赴智能攻防之巅」** 为主题，聚焦AI大模型与网络安全技术的深度融合，重点探索智能体（Agent）在自动化渗透测试领域的应用潜力，是腾讯安全面向产学研各界打造的高端AI安全竞技平台。
+腾讯云智能渗透黑客松由腾讯云鼎实验室主办，是国内 **首个聚焦 LLM 智能体全流程自动化渗透** 的顶级专业赛事。赛事已连续成功举办两届，持续引领「AI + 安全」前沿技术探索与高端安全人才培养方向。赛事秉持 **铸刃止戈、以智御危** 理念，深度推动大模型与网络安全场景融合创新，探索智能渗透技术落地实践路径，同时面向产学研各界搭建高端 AI 安全竞技舞台，为行业持续输送顶尖 AI 安全实战人才。
 
-###### _With the theme of "AI Drives the Future of Security, Embark on the Peak of Intelligent Attack and Defense with XBOW", Tencent Intelligent Penetration Hackathon focuses on the in-depth integration of AI large models and cybersecurity technologies, and explores the application potential of agents in the field of automated penetration testing. It is a high-end AI security competition platform built by Tencent Security for the industry, academia and research communities._
+###### _Tencent Cloud Intelligent Penetration Hackathon, hosted by Tencent Cloud Yunding Lab, is China’s first top-tier professional competition focusing on full-process automated penetration based on LLM agents.Successfully held for two consecutive sessions, the event keeps spearheading cutting-edge exploration in AI + cybersecurity and the cultivation of high-end security talents.Upholding the philosophy of Forging Blades to Defend Threats, Guarding Risks with Intelligence, the competition deeply drives the integrated innovation of large models and cybersecurity scenarios, and explores the practical implementation path of intelligent penetration technologies.It also builds a high-end AI security arena for industry, academia and research communities, continuously delivering top practical AI security talents to the industry._
 
-赛事采用**线上智能体夺旗+线下答辩展示**双阶段赛制，以权威XBOW Benchmark为基准，结合高还原度自研靶机环境，打造贴近真实攻防的多维度场景，要求参赛选手编写以LLM为核心的智能体程序，自主完成漏洞挖掘、路径突破与FLAG夺取，全面考评选手的技术实力与创新能力。
+两届赛事累计汇聚800 + 支战队、千余名顶尖选手，产出 20 套顶尖智能渗透技术框架，形成 “赛事实践 - 技术沉淀 - 开源共享 - 行业赋能” 的良性循环。本板块收录两届赛事线上排名前十优秀团队的开源项目仓库导航，涵盖智能渗透 Agent 的核心设计思路、技术实现细节、实战攻防方案，完整呈现从初代可行性验证到高阶复杂场景落地的技术演进路径，是学习智能渗透技术、掌握 AI 攻防核心能力的权威参考资源。排名严格按两届赛事最终成绩排序，确保技术方案的标杆性与参考价值。
 
-###### _The competition adopts a two-stage system of online agent capture the flag and offline defense display. Based on the authoritative XBOW Benchmark and combined with a highly realistic self-developed target machine environment, it creates a multi-dimensional scenario close to real attack and defense. Participants are required to write an agent program with LLM as the core to independently complete vulnerability mining, path breakthrough and FLAG capture, comprehensively evaluating the participants' technical strength and innovation ability._
+###### _Over the two sessions, the event has gathered more than 800 teams and over a thousand top contestants, delivering 20 cutting-edge intelligent penetration technical frameworks. It has formed a virtuous cycle of **"Competition Practice – Technology Accumulation – Open Source Sharing – Industry Empowerment"**._
+###### _This section collects the repository navigation of open-source projects from the top 10 outstanding teams in the online rankings of the two competitions. It covers the core design concepts, technical implementation details, and practical attack and defense solutions of intelligent penetration Agents. It fully presents the technological evolution path from initial feasibility verification to implementation in advanced complex scenarios, serving as an authoritative reference resource for learning intelligent penetration technology and mastering core AI attack and defense capabilities._
+###### _All rankings are strictly sorted by the final results of the two competitions to ensure the benchmark value and reference significance of the technical solutions._
 
-### 赛事核心信息 / Core Event Information
-
-- **赛事名称**：腾讯首届智能渗透黑客松/智能渗透挑战赛
-
-- **比赛时间**：2025.10.28 - 2025.11.29（线上赛）+ 线下答辩
-
-- **赛事赛道**：AI大模型驱动的自动化渗透测试、智能渗透Agent研发
-
-- **评分规则**：最终成绩 = 线上赛FLAG得分（50%）+ 线下答辩成绩（50%）
-
-- **官方赛事页**：[https://zc.tencent.com/competition/competitionHackathon?code=cha004](https://zc.tencent.com/competition/competitionHackathon?code=cha004)
+- **官方赛事页**：[https://zc.tencent.com/hackathon](https://zc.tencent.com/hackathon)
 - **答辩视频列表**：[https://space.bilibili.com/3690981341792399/lists/5042715?type=series](https://space.bilibili.com/3690981341792399/lists/5042715?type=series)
 
-## 前20优秀团队项目 / Top 10 Teams Project Navigation
+<br>
 
+## 第二届前20优秀团队项目 / Top 20 Teams Project Navigation
 本板块为赛事线上排名前十的优秀团队开源项目仓库导航，涵盖智能渗透Agent的核心设计思路、技术实现与实战方案，是学习智能渗透技术的核心参考资源，排名按赛事最终成绩排序：
+###### _This section provides a navigation list of open-source project repositories from the top 10 teams in the online competition rankings. It covers the core design concepts, technical implementations and practical solutions of intelligent penetration Agents. Serving as a key reference resource for learning intelligent penetration technologies, the list is sorted by the final competition results._
+|排名|战队名|核心亮点|开源链接|
+|---|---|------|-----|
+|1|ai小分队|Manager+Solver+Observer三层解耦。Observer旁路监督不干预执行，RTK Rewrite三层压缩解决上下文腐败，Ralph-Loop系统状态约束结束判定，7模型并行竞争上岗|[tch-agent](https://github.com/m-sec-org/tch-agent) |
+|3|Bytex|黑板系统+蚁群算法+涌现行为，平等Worker动态任务，反对角色分工是人类局限的投影。全场唯一AK，7692元成本|[Cairn](https://github.com/oritera/Cairn) |
+|7|For Future|使用纯自然语言FSM执行引擎；秉持Less Than Nothing哲学，零领域知识是主动排除而非遗漏，为LLM涌现留出结构化空位；Coordinator/P2P/Craft三种组织模式让AI自组织，而非硬编码角色分工|[aide-for-pentest](https://github.com/chainreactors/aide-for-pentest) |
+|17|爱吃大红袍茶叶蛋|-|[LingXi](https://github.com/adrian803/LingXi) |
+|18|青松|-|[llmnor](https://github.com/QingHeZhiZhou/llmnor) |
+|19|云南大学/西南石油大学|-|[cloudever_tecent_penetration_2026_4 ](https://github.com/CloudEver-Team/cloudever_tecent_penetration_2026_4 )|
+|20|别用假装努力掩盖懒惰|-|[hackathon-pentest](https://github.com/Threonine/hackathon-pentest) |
+##### 第二届获奖项目团队特色简介 / Team Feature Introduction
+<img width="1565" height="741" alt="Clipboard_Screenshot_1778492892" src="https://github.com/user-attachments/assets/71e9e7e6-79dc-471c-b5a4-a06369b09908" />
 
-|团队名称|核心技术亮点|仓库名及地址|
-|---|---|---|
-|xjtuHunter|基于场景感知的下一代黑盒渗透方案|[xjtuHunter](https://github.com/xjtuHunter)|
-|BinX|基于状态感知与因果推理的自主渗透测试智能体|[LuaN1aoAgent](https://github.com/SanMuzZzZz/LuaN1aoAgent)|
-|Antix|100行代码，无需调优，完全由人工智能驱动|[tinyctfer](https://github.com/chainreactors/tinyctfer)|
-|NeuroSploit|具备认知能力的渗透智能体，AI自主规划与深度理解|[Neuro-Sploit](https://github.com/Neuro-Sploit)|
-|ai 小分队|AI 渗透的“蜂群思维”|[xbow-competition](https://github.com/m-sec-org/xbow-competition)|
-|D@wnEdg3|Cruiser: CTF Agent实现探索，实战攻防能力智能化演进|[Cruiser Agent](https://github.com/TJR181/Cruiser_public)|
-|yhy|ChYing Agent：人机协作下的CTF自动化实践|[CHYing-Agent](https://github.com/yhy0/CHYing-agent)|
-|sickhack|finds a way，AI驱动的安全自动化工具研发|[SickHackShark](https://github.com/SickHackPark/SickHackShark)|
-|小白战队|基于go语言构建，集成了100多种安全工具|[CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI)|
-|华科金银湖|基于CrewAI的ReAct架构，重方法论引导的多Agent|[newmapta](https://github.com/HUST-JYHLab/newmapta)|
-|瀚海星云|多Agent安全测试系统|[sub-agent-autopt](https://github.com/yyy1mu/sub-agent-autopt)|
-|HRP(Nepnep)|全异步架构、三层智能决策、50+攻击知识库|[H-Pentest](https://github.com/hexian2001/H-Pentest)|
-|中传C1JC战队|基于OODA的迭代式笔记本问题求解自主代理|[AgentNote](https://github.com/C1JC/AgentNote)|
-|基米牌南北绿豆好吃吗|专为CTF设计的可扩展AI Agent|[BUUCTF_Agent](https://github.com/MuWinds/BUUCTF_Agent)|
+## 首届前20优秀团队项目 / Top 20 Teams Project Navigation
 
-### 团队特色简介 / Team Feature Introduction
+|排名|战队名|核心亮点|开源链接|
+|---|---|------|------|
+|2|xjtuHunter|基于场景感知的下一代黑盒渗透方案 |[xjtuHunter](https://github.com/xjtuHunter)|
+|3|BinX|基于状态感知与因果推理的自主渗透测试智能体|[LuaN1aoAgent](https://github.com/SanMuzZzZz/LuaN1aoAgent)|
+|4|Antix|100行代码，无需调优，完全由人工智能驱动|[tinyctfer](https://github.com/chainreactors/tinyctfer)|
+|6|NeuroSploit|具备认知能力的渗透智能体，AI自主规划与深度理解|[Neuro-Sploit](https://github.com/Neuro-Sploit)|
+|7|ai小分队|AI 渗透的“蜂群思维”|[xbow-competition](https://github.com/m-sec-org/xbow-competition)|
+|8|D@wnEdg3|Cruiser: CTF Agent实现探索，实战攻防能力智能化演进|[Cruiser Agent](https://github.com/TJR181/Cruiser_public)|
+|9|yhy|ChYing Agent：人机协作下的CTF自动化实践|[CHYing-Agent](https://github.com/yhy0/CHYing-agent)|
+|10|sickhack|finds a way，AI驱动的安全自动化工具研发|[SickHackShark](https://github.com/SickHackPark/SickHackShark)|
+|15|华科金银湖|基于CrewAI的ReAct架构，重方法论引导的多Agent|[newmapta](https://github.com/HUST-JYHLab/newmapta)|
+|16|瀚海星云|多Agent安全测试系统|[sub-agent-autopt](https://github.com/yyy1mu/sub-agent-autopt)|
+|17|小白战队|基于go语言构建，集成了100多种安全工|[CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI)|
+|18|HRP(Nepnep)|全异步架构、三层智能决策、50+攻击知识库|[H-Pentest](https://github.com/hexian2001/H-Pentest)|
+|25|基米牌南北绿豆好吃吗|专为CTF设计的可扩展AI Agent|[BUUCTF_Agent](https://github.com/MuWinds/BUUCTF_Agent)|
+|35|中传C1JC战队|基于OODA的迭代式笔记本问题求解自主代理|[AgentNote](https://github.com/C1JC/AgentNote)|
+
+#### 首届特色团队简介 / Team Feature Introduction
 
 1. **xjtuHunter**（西安交通大学）：由网络空间安全学院师生组成，深耕智能攻击检测、自动化漏洞挖掘，研究成果发表于ASE、NDSS等国际顶级会议。
 
@@ -60,7 +67,7 @@
 
 ###### _The above teams represent the top level of domestic intelligent penetration Agent technology, covering core directions such as multi-agent collaboration, autonomous planning of LLM agents, and scenario-aware black-box penetration, and have important reference value for the research and development of intelligent penetration technology._
 
-
+<br>
 
 ## 资料使用说明 / Usage Instructions
 
