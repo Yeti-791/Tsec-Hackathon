@@ -40,6 +40,33 @@
 ##### 第二届获奖项目团队特色简介 / Team Feature Introduction
 <img width="1565" height="741" alt="Clipboard_Screenshot_1778492892" src="https://github.com/user-attachments/assets/71e9e7e6-79dc-471c-b5a4-a06369b09908" />
 
+#### 赛事复盘分析 / Event Review and Analysis
+> #### [两届腾讯云黑客松总结与分析](https://mp.weixin.qq.com/s/nzgX4OoqjJ75vkH4mlQJAw)
+> 
+> #### [再论 AI 渗透测试 Agent 的减法哲学](https://mp.weixin.qq.com/s/edRnn_ysx1lEvuCIbzJYOw)
+> 
+> #### [AI自动化渗透是否到来？--TCH分析](https://mp.weixin.qq.com/s/6j6KAPDFAaWarZ5F2qGfag)
+> 
+> #### [国内最强 AI 渗透测试 Agent —— TCH·腾讯云黑客松第二届智能渗透挑战赛 唯一 AK 战队复盘](https://mp.weixin.qq.com/s/DlpEH7bVr0xi0VawPJs3XA)
+> 
+> #### [[TCH]腾讯云黑客松 第二届智能渗透挑战赛复盘](https://mp.weixin.qq.com/s/7NHo3C8tDyO1vQsuBu5mog)
+> 
+> #### [无径之径：Cairn AI 从渗透测试到通用问题的求解](https://mp.weixin.qq.com/s/2rEqFLvkxvYWM3gW170C2w)
+> 
+> #### [Self-Evolving Kill Chain：Agent自适应进化与实战](https://mp.weixin.qq.com/s/pebPOnsSckS3P2yzPq78xw)
+> 
+> #### [Less Than Nothing - 从本质的本质出发，AI攻防的另一条路](https://mp.weixin.qq.com/s/ebtZwdySLTKmv4oDfQuwGQ)
+> 
+> #### [记一次腾讯云智能渗透挑战赛复盘](https://mp.weixin.qq.com/s/6U1zcLv1HzhAYCGhGTAEmA)
+> 
+> #### [智能攻防元年：渗透测试Agent迎来大考，AI如何从“能打”走向“可控”](https://mp.weixin.qq.com/s/QzLs_Lz8RG85V5uMnqOmhg)
+> 
+> #### [浪潮将至--腾讯智能渗透赛冠军之夜回顾](https://mp.weixin.qq.com/s/gaZBZC3j_QiaSVs6mcZQAQ)
+> 
+> #### [AI 时代的旁观者 - 第二届腾讯云黑客松智能渗透挑战赛赛后记录](https://mp.weixin.qq.com/s/fLax4LC-vK2DNGYDtX_URQ) #####
+
+<br>
+
 ## 首届前20优秀团队项目 / Top 20 Teams Project Navigation
 ###### _比赛时间：2025年11月（受技术发展速度影响，能力仅代表该时间节点）_
 
@@ -67,6 +94,15 @@
 2. **Antix（ChainReactors）**：致力于构建AI原生进攻性安全基座，通过先进AI Agent工程打造下一代攻防作战指挥平台。
 
 3. **BinX**（广州大学）：秉承方滨兴院士育人理念，承担多项国家级重大课题及大型赛事网络安全保障，深耕智能攻防与自动化渗透。
+
+#### 赛事复盘分析 / Event Review and Analysis
+> #### [四川大学；清华大学等：黑客还是幻觉？基于大语言模型的自动化渗透测试全面分析](https://mp.weixin.qq.com/s/fRBIupvLuXLFE0bwLTwHyQ)
+>
+> #### [渗透成功率超94%！长亭科技AI自主渗透智能体再获“腾讯云黑客松”决赛冠军](https://mp.weixin.qq.com/s/Qo2ndqu09TwNH7-Vq3x0iw)
+>
+> #### [Intent Is All You Need (for agent)](https://mp.weixin.qq.com/s/GOfV2JDo6c7r36BNeHtG2g)
+>
+> #### [7天Top 9：我如何让 Claude 手搓一个全自动 CTF 选手](https://mp.weixin.qq.com/s/fWWVMTySJMpyKt62BBsDdA)
 
 ###### _The above teams represent the top level of domestic intelligent penetration Agent technology, covering core directions such as multi-agent collaboration, autonomous planning of LLM agents, and scenario-aware black-box penetration, and have important reference value for the research and development of intelligent penetration technology._
 
