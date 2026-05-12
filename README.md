@@ -24,6 +24,8 @@
 <br>
 
 ## 第二届前20优秀团队项目 / Top 20 Teams Project Navigation
+###### _比赛时间：2026年4月（受技术发展速度影响，能力仅代表该时间节点）_
+
 本板块为赛事线上排名前十的优秀团队开源项目仓库导航，涵盖智能渗透Agent的核心设计思路、技术实现与实战方案，是学习智能渗透技术的核心参考资源，排名按赛事最终成绩排序：
 ###### _This section provides a navigation list of open-source project repositories from the top 10 teams in the online competition rankings. It covers the core design concepts, technical implementations and practical solutions of intelligent penetration Agents. Serving as a key reference resource for learning intelligent penetration technologies, the list is sorted by the final competition results._
 |排名|战队名|核心亮点|开源链接|
@@ -39,6 +41,7 @@
 <img width="1565" height="741" alt="Clipboard_Screenshot_1778492892" src="https://github.com/user-attachments/assets/71e9e7e6-79dc-471c-b5a4-a06369b09908" />
 
 ## 首届前20优秀团队项目 / Top 20 Teams Project Navigation
+###### _比赛时间：2025年11月（受技术发展速度影响，能力仅代表该时间节点）_
 
 |排名|战队名|核心亮点|开源链接|
 |---|---|------|------|
