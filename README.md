@@ -31,7 +31,7 @@
 |排名|战队名|核心亮点|开源链接|
 |---|---|------|-----|
 |1|ai小分队|Manager+Solver+Observer三层解耦。Observer旁路监督不干预执行，RTK Rewrite三层压缩解决上下文腐败，Ralph-Loop系统状态约束结束判定，7模型并行竞争上岗|[BreachWeave](https://github.com/m-sec-org/BreachWeave)|
-|3|Bytex|黑板系统+蚁群算法+涌现行为，平等Worker动态任务，反对角色分工是人类局限的投影。全场唯一AK，7692元成本|[Cairn](https://github.com/oritera/Cairn) |
+|3|Bytex|黑板系统+蚁群算法+涌现行为，平等Worker动态任务，反对预定义角色分工，认为其是人类局限的投影。全场唯一AK，7692元成本|[Cairn](https://github.com/oritera/Cairn) |
 |7|For Future|使用纯自然语言FSM执行引擎；秉持Less Than Nothing哲学，零领域知识是主动排除而非遗漏，为LLM涌现留出结构化空位；Coordinator/P2P/Craft三种组织模式让AI自组织，而非硬编码角色分工|[aide-for-pentest](https://github.com/chainreactors/aide-for-pentest) |
 |17|爱吃大红袍茶叶蛋|-|[LingXi](https://github.com/adrian803/LingXi) |
 |18|青松|-|[llmnor](https://github.com/QingHeZhiZhou/llmnor) |
