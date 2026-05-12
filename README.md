@@ -59,11 +59,15 @@
 > 
 > #### [记一次腾讯云智能渗透挑战赛复盘](https://mp.weixin.qq.com/s/6U1zcLv1HzhAYCGhGTAEmA)
 > 
-> #### [智能攻防元年：渗透测试Agent迎来大考，AI如何从“能打”走向“可控”](https://mp.weixin.qq.com/s/QzLs_Lz8RG85V5uMnqOmhg)
+> #### [[Freebuf]智能攻防元年：渗透测试Agent迎来大考，AI如何从“能打”走向“可控”](https://mp.weixin.qq.com/s/QzLs_Lz8RG85V5uMnqOmhg)
 > 
 > #### [浪潮将至--腾讯智能渗透赛冠军之夜回顾](https://mp.weixin.qq.com/s/gaZBZC3j_QiaSVs6mcZQAQ)
 > 
-> #### [AI 时代的旁观者 - 第二届腾讯云黑客松智能渗透挑战赛赛后记录](https://mp.weixin.qq.com/s/fLax4LC-vK2DNGYDtX_URQ) #####
+> #### [AI 时代的旁观者 - 第二届腾讯云黑客松智能渗透挑战赛赛后记录](https://mp.weixin.qq.com/s/fLax4LC-vK2DNGYDtX_URQ)
+> 
+> #### [从零构建 AI 渗透测试 Agent：TCH 智能渗透黑客松实战复盘](https://mp.weixin.qq.com/s/lRp0ztT95JoY1GZdbm8irg)
+>
+> #### [[看雪学苑]前沿观察 赛事纪实：从腾讯云黑客松，洞见智能体时代的攻防新格局](https://mp.weixin.qq.com/s/f94uaYgqiSSx-3Vz0kP4_Q)
 
 <br>
 
