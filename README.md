@@ -1,6 +1,6 @@
 # Tsec-Hackathon - 腾讯云智能渗透黑客松
 ### Tencent Cloud Intelligent Penetration Agent Hackathon
-
+<img width="1384" height="628" alt="Clipboard_Screenshot_1778561225" src="https://github.com/user-attachments/assets/a27d9032-1680-48b6-ae89-d2e752429fec" />
 
 本仓库为**腾讯云智能渗透黑客松**官方赛事资源仓，存放黑客松获奖团队答辩PPT、赛事物料及相关技术资料，同时整合赛事前二十优秀团队的开源项目仓库地址，打造**智能渗透Agent领域一站式导航页面**，助力网络安全从业者学习、交流与创新。
 
