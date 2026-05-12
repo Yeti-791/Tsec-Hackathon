@@ -28,15 +28,16 @@
 
 本板块为赛事线上排名前二十的优秀团队开源项目仓库导航，涵盖智能渗透Agent的核心设计思路、技术实现与实战方案，是学习智能渗透技术的核心参考资源，排名按赛事最终成绩排序：
 ###### _This section provides a navigation list of open-source project repositories from the top 20 teams in the online competition rankings. It covers the core design concepts, technical implementations and practical solutions of intelligent penetration Agents. Serving as a key reference resource for learning intelligent penetration technologies, the list is sorted by the final competition results._
-|排名|战队名|核心亮点|开源链接|
-|---|---|------|-----|
-|1|ai小分队|Manager+Solver+Observer三层解耦。Observer旁路监督不干预执行，RTK Rewrite三层压缩解决上下文腐败，Ralph-Loop系统状态约束结束判定，7模型并行竞争上岗|[BreachWeave](https://github.com/m-sec-org/BreachWeave)|
-|3|Bytex|黑板系统+蚁群算法+涌现行为，平等Worker动态任务，反对预定义角色分工，认为其是人类局限的投影。全场唯一AK，7692元成本|[Cairn](https://github.com/oritera/Cairn) |
-|7|For Future|使用纯自然语言FSM执行引擎；秉持Less Than Nothing哲学，零领域知识是主动排除而非遗漏，为LLM涌现留出结构化空位；Coordinator/P2P/Craft三种组织模式让AI自组织，而非硬编码角色分工|[aide-for-pentest](https://github.com/chainreactors/aide-for-pentest) |
-|17|爱吃大红袍茶叶蛋|-|[LingXi](https://github.com/adrian803/LingXi) |
-|18|青松|-|[llmnor](https://github.com/QingHeZhiZhou/llmnor) |
-|19|云南大学/西南石油大学|-|[cloudever_tecent_penetration_2026_4 ](https://github.com/CloudEver-Team/cloudever_tecent_penetration_2026_4 )|
-|20|别用假装努力掩盖懒惰|-|[hackathon-pentest](https://github.com/Threonine/hackathon-pentest) |
+|排名|战队名|核心亮点|答辩PPT|视频|开源链接|
+|---|---|------|-----|-----|---|
+|1|ai小分队|Manager+Solver+Observer三层解耦。Observer旁路监督不干预执行，RTK Rewrite三层压缩解决上下文腐败，Ralph-Loop系统状态约束结束判定，7模型并行竞争上岗|[《Adaptive Architecture for Pentest Agents》](https://github.com/Yeti-791/Tsec-Hackathon/blob/main/%E7%AC%AC%E4%BA%8C%E5%B1%8A%E6%99%BA%E8%83%BD%E6%B8%97%E9%80%8F%E9%BB%91%E5%AE%A2%E6%9D%BE/%E5%86%B3%E8%B5%9B%E7%AD%94%E8%BE%A9PPT/%5BTCH%E6%99%BA%E8%83%BD%E6%B8%97%E9%80%8F%E6%8C%91%E6%88%98%E8%B5%9B%5D%E7%AC%AC1%E5%90%8D%EF%BC%9Aai%20%E5%B0%8F%E5%88%86%E9%98%9F%EF%BC%88%E7%BB%BF%E7%9B%9F%EF%BC%89.pdf)|[播放](https://www.bilibili.com/video/BV1PQ9YBKEL6/?spm_id_from=333.1387.homepage.video_card.click)|[BreachWeave](https://github.com/m-sec-org/BreachWeave)|
+|3|Bytex|黑板系统+蚁群算法+涌现行为，平等Worker动态任务，反对预定义角色分工，认为其是人类局限的投影。全场唯一AK，7692元成本|[《Cairn AI 从渗透测试到通用问题的求解》](https://github.com/Yeti-791/Tsec-Hackathon/blob/main/%E7%AC%AC%E4%BA%8C%E5%B1%8A%E6%99%BA%E8%83%BD%E6%B8%97%E9%80%8F%E9%BB%91%E5%AE%A2%E6%9D%BE/%E5%86%B3%E8%B5%9B%E7%AD%94%E8%BE%A9PPT/%5BTCH%E6%99%BA%E8%83%BD%E6%B8%97%E9%80%8F%E6%8C%91%E6%88%98%E8%B5%9B%5D%E7%AC%AC3%E5%90%8D%EF%BC%9ABytex%EF%BC%88%E4%B8%AA%E4%BA%BA%EF%BC%89.pdf)|[播放](https://www.bilibili.com/video/BV1yQ9YBNEuZ/?spm_id_from=333.1387.homepage.video_card.click)|[Cairn](https://github.com/oritera/Cairn) |
+|7|For Future|使用纯自然语言FSM执行引擎；秉持Less Than Nothing哲学，零领域知识是主动排除而非遗漏，为LLM涌现留出结构化空位；Coordinator/P2P/Craft三种组织模式让AI自组织，而非硬编码角色分工|[《Less Than Nothing》](https://github.com/Yeti-791/Tsec-Hackathon/blob/main/%E7%AC%AC%E4%BA%8C%E5%B1%8A%E6%99%BA%E8%83%BD%E6%B8%97%E9%80%8F%E9%BB%91%E5%AE%A2%E6%9D%BE/%E5%86%B3%E8%B5%9B%E7%AD%94%E8%BE%A9PPT/%5BTCH%E6%99%BA%E8%83%BD%E6%B8%97%E9%80%8F%E6%8C%91%E6%88%98%E8%B5%9B%5D%E7%AC%AC7%E5%90%8D%EF%BC%9AFor%20future.pdf)|[播放](https://www.bilibili.com/video/BV1PQ9YBKE57/?spm_id_from=333.1387.collection.video_card.click)|[aide-for-pentest](https://github.com/chainreactors/aide-for-pentest) |
+|17|爱吃大红袍茶叶蛋|-|-|-|[LingXi](https://github.com/adrian803/LingXi) |
+|18|青松|-|-|-|[llmnor](https://github.com/QingHeZhiZhou/llmnor) |
+|19|云南大学/西南石油大学|-|-|-|[cloudever_tecent_penetration](https://github.com/CloudEver-Team/cloudever_tecent_penetration_2026_4 )|
+|20|别用假装努力掩盖懒惰|-|-|-|[hackathon-pentest](https://github.com/Threonine/hackathon-pentest) |
+
 ### 第二届获奖项目团队特色简介 / Team Feature Introduction
 > #### _[获奖团队答辩PPT下载](https://github.com/Yeti-791/Tsec-Hackathon/tree/main/%E7%AC%AC%E4%BA%8C%E5%B1%8A%E6%99%BA%E8%83%BD%E6%B8%97%E9%80%8F%E9%BB%91%E5%AE%A2%E6%9D%BE/%E5%86%B3%E8%B5%9B%E7%AD%94%E8%BE%A9PPT)_
 > 
