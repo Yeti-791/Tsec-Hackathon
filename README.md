@@ -4,7 +4,7 @@
 
 本仓库为**腾讯云智能渗透黑客松**官方赛事资源仓，存放黑客松获奖团队答辩PPT、赛事物料及相关技术资料，同时整合赛事前二十优秀团队的开源项目仓库地址，打造**智能渗透Agent领域一站式导航页面**，助力网络安全从业者学习、交流与创新。
 
-###### _This repository is the official event resource warehouse for Tencent Cloud Intelligent Penetration Hackathon, which mainly stores the defense PPTs, event materials and related technical documents of the winning teams of the first Intelligent Penetration Hackathon. It also integrates the open source project repository addresses of the top 10 outstanding teams in the event to build a one-stop navigation page for the field of Intelligent Penetration Agent, helping cybersecurity practitioners learn, communicate and innovate._
+###### _This repository is the official event resource warehouse for Tencent Cloud Intelligent Penetration Hackathon, which mainly stores the defense PPTs, event materials and related technical documents of the winning teams of the first Intelligent Penetration Hackathon. It also integrates the open source project repository addresses of the top 20 outstanding teams in the event to build a one-stop navigation page for the field of Intelligent Penetration Agent, helping cybersecurity practitioners learn, communicate and innovate._
 
 ## 赛事介绍 / Event Introduction
 
@@ -27,7 +27,7 @@
 ###### _比赛时间：2026年4月（受技术发展速度影响，能力仅代表该时间节点）_
 
 本板块为赛事线上排名前二十的优秀团队开源项目仓库导航，涵盖智能渗透Agent的核心设计思路、技术实现与实战方案，是学习智能渗透技术的核心参考资源，排名按赛事最终成绩排序：
-###### _This section provides a navigation list of open-source project repositories from the top 10 teams in the online competition rankings. It covers the core design concepts, technical implementations and practical solutions of intelligent penetration Agents. Serving as a key reference resource for learning intelligent penetration technologies, the list is sorted by the final competition results._
+###### _This section provides a navigation list of open-source project repositories from the top 20 teams in the online competition rankings. It covers the core design concepts, technical implementations and practical solutions of intelligent penetration Agents. Serving as a key reference resource for learning intelligent penetration technologies, the list is sorted by the final competition results._
 |排名|战队名|核心亮点|开源链接|
 |---|---|------|-----|
 |1|ai小分队|Manager+Solver+Observer三层解耦。Observer旁路监督不干预执行，RTK Rewrite三层压缩解决上下文腐败，Ralph-Loop系统状态约束结束判定，7模型并行竞争上岗|[BreachWeave](https://github.com/m-sec-org/BreachWeave)|
