@@ -185,6 +185,9 @@
 
 - **赛事合作联系方式**：微信Wx62887799
 
+## 合作伙伴 / Collaborator
+<img width="1119" height="313" alt="未标题-1" src="https://github.com/user-attachments/assets/75368fdb-d482-4107-8c5b-54333923aeb3" />
+
 ## Star History
 
  <picture>
