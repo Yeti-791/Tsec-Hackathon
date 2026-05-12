@@ -37,10 +37,10 @@
 |18|青松|-|[llmnor](https://github.com/QingHeZhiZhou/llmnor) |
 |19|云南大学/西南石油大学|-|[cloudever_tecent_penetration_2026_4 ](https://github.com/CloudEver-Team/cloudever_tecent_penetration_2026_4 )|
 |20|别用假装努力掩盖懒惰|-|[hackathon-pentest](https://github.com/Threonine/hackathon-pentest) |
-##### 第二届获奖项目团队特色简介 / Team Feature Introduction
+### 第二届获奖项目团队特色简介 / Team Feature Introduction
 <img width="1565" height="741" alt="Clipboard_Screenshot_1778492892" src="https://github.com/user-attachments/assets/71e9e7e6-79dc-471c-b5a4-a06369b09908" />
 
-#### 赛事复盘分析 / Event Review and Analysis
+### 赛事复盘分析 / Event Review and Analysis
 > #### [两届腾讯云黑客松总结与分析](https://mp.weixin.qq.com/s/nzgX4OoqjJ75vkH4mlQJAw)
 > 
 > #### [再论 AI 渗透测试 Agent 的减法哲学](https://mp.weixin.qq.com/s/edRnn_ysx1lEvuCIbzJYOw)
@@ -87,7 +87,7 @@
 |25|基米牌南北绿豆好吃吗|专为CTF设计的可扩展AI Agent|[BUUCTF_Agent](https://github.com/MuWinds/BUUCTF_Agent)|
 |35|中传C1JC战队|基于OODA的迭代式笔记本问题求解自主代理|[AgentNote](https://github.com/C1JC/AgentNote)|
 
-#### 首届特色团队简介 / Team Feature Introduction
+### 首届特色团队简介 / Team Feature Introduction
 
 1. **xjtuHunter**（西安交通大学）：由网络空间安全学院师生组成，深耕智能攻击检测、自动化漏洞挖掘，研究成果发表于ASE、NDSS等国际顶级会议。
 
@@ -95,7 +95,7 @@
 
 3. **BinX**（广州大学）：秉承方滨兴院士育人理念，承担多项国家级重大课题及大型赛事网络安全保障，深耕智能攻防与自动化渗透。
 
-#### 赛事复盘分析 / Event Review and Analysis
+### 赛事复盘分析 / Event Review and Analysis
 > #### [四川大学；清华大学等：黑客还是幻觉？基于大语言模型的自动化渗透测试全面分析](https://mp.weixin.qq.com/s/fRBIupvLuXLFE0bwLTwHyQ)
 >
 > #### [渗透成功率超94%！长亭科技AI自主渗透智能体再获“腾讯云黑客松”决赛冠军](https://mp.weixin.qq.com/s/Qo2ndqu09TwNH7-Vq3x0iw)
@@ -170,7 +170,7 @@
 
 ## 官方信息 / Official Information
 
-- **赛事官方页**：[腾讯智能渗透挑战赛](https://zc.tencent.com/competition/competitionHackathon?code=cha004)
+- **赛事官方页**：[腾讯智能渗透挑战赛](https://zc.tencent.com/hackathon)
 
 - **黑客松仓库地址**：[https://github.com/Yeti-791/Tsec-Hackathon](https://github.com/Yeti-791/Tsec-Hackathon)
 
