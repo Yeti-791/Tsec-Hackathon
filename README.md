@@ -38,6 +38,8 @@
 |19|云南大学/西南石油大学|-|[cloudever_tecent_penetration_2026_4 ](https://github.com/CloudEver-Team/cloudever_tecent_penetration_2026_4 )|
 |20|别用假装努力掩盖懒惰|-|[hackathon-pentest](https://github.com/Threonine/hackathon-pentest) |
 ### 第二届获奖项目团队特色简介 / Team Feature Introduction
+> #### _[获奖团队答辩PPT下载](https://github.com/Yeti-791/Tsec-Hackathon/tree/main/%E7%AC%AC%E4%BA%8C%E5%B1%8A%E6%99%BA%E8%83%BD%E6%B8%97%E9%80%8F%E9%BB%91%E5%AE%A2%E6%9D%BE/%E5%86%B3%E8%B5%9B%E7%AD%94%E8%BE%A9PPT)_
+> 
 <img width="1565" height="741" alt="Clipboard_Screenshot_1778492892" src="https://github.com/user-attachments/assets/71e9e7e6-79dc-471c-b5a4-a06369b09908" />
 
 ### 赛事复盘分析 / Event Review and Analysis
@@ -90,7 +92,8 @@
 |18|HRP(Nepnep)|全异步架构、三层智能决策、50+攻击知识库|[H-Pentest](https://github.com/hexian2001/H-Pentest)|
 |25|基米牌南北绿豆好吃吗|专为CTF设计的可扩展AI Agent|[BUUCTF_Agent](https://github.com/MuWinds/BUUCTF_Agent)|
 |35|中传C1JC战队|基于OODA的迭代式笔记本问题求解自主代理|[AgentNote](https://github.com/C1JC/AgentNote)|
-
+> #### _[获奖团队答辩PPT下载](https://github.com/Yeti-791/Tsec-Hackathon/tree/main/%E9%A6%96%E5%B1%8A%E6%99%BA%E8%83%BD%E6%B8%97%E9%80%8F%E9%BB%91%E5%AE%A2%E6%9D%BE)_
+> 
 ### 首届特色团队简介 / Team Feature Introduction
 
 1. **xjtuHunter**（西安交通大学）：由网络空间安全学院师生组成，深耕智能攻击检测、自动化漏洞挖掘，研究成果发表于ASE、NDSS等国际顶级会议。
