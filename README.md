@@ -44,6 +44,9 @@
 <img width="1565" height="741" alt="Clipboard_Screenshot_1778492892" src="https://github.com/user-attachments/assets/71e9e7e6-79dc-471c-b5a4-a06369b09908" />
 
 ### 赛事复盘分析 / Event Review and Analysis
+
+> #### [两届TCH之后 —— AI 渗透测试 Agent 的 Harness 工程演进、防御与我的思考](https://mp.weixin.qq.com/s/pbieEet9VCR5iLhjViokIA)
+> 
 > #### [两届腾讯云黑客松总结与分析](https://mp.weixin.qq.com/s/nzgX4OoqjJ75vkH4mlQJAw)
 > 
 > #### [再论 AI 渗透测试 Agent 的减法哲学](https://mp.weixin.qq.com/s/edRnn_ysx1lEvuCIbzJYOw)
@@ -187,7 +190,7 @@
 - **赛事合作联系方式**：微信Wx62887799
 
 ## 合作伙伴 / Collaborator
-<img width="1119" height="313" alt="未标题-1" src="https://github.com/user-attachments/assets/75368fdb-d482-4107-8c5b-54333923aeb3" />
+<img width="1395" height="303" alt="Clipboard_Screenshot_1779868365" src="https://github.com/user-attachments/assets/2625a3db-2776-4917-85e5-8a856bad1163" />
 
 ## Star History
 
