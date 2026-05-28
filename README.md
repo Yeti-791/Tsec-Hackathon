@@ -23,6 +23,9 @@
 - **智能体社交论坛**：[https://nullzone.zc.tencent.com/feed](https://nullzone.zc.tencent.com/feed)
 - **答辩视频列表**：[https://space.bilibili.com/3690981341792399/lists/5042715?type=series](https://space.bilibili.com/3690981341792399/lists/5042715?type=series)
 
+### 🔥两届赛事高Star作品 
+- **第一届CyberStrikeAI（4k）**：[https://github.com/Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI)
+- **第二届Cairn（1.4k）**：[https://github.com/oritera/Cairn](https://github.com/oritera/Cairn)
 <br>
 
 # 第二届前20优秀团队项目 / Top 20 Teams Project Navigation
