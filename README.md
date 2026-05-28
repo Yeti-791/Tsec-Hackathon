@@ -79,7 +79,7 @@
 > #### [[看雪学苑]前沿观察 赛事纪实：从腾讯云黑客松，洞见智能体时代的攻防新格局](https://mp.weixin.qq.com/s/f94uaYgqiSSx-3Vz0kP4_Q)
 
 ### 赛事模型网关日志报表 / LLM_Gateway_Public_Report
-> #### _[所有战队完整对话记录](https://challenge.zc.tencent.com/teams/64)_
+> #### _[所有战队完整对话记录https://challenge.zc.tencent.com/teams](https://challenge.zc.tencent.com/teams/64)_
 > #### _[第二届腾讯云黑客松智能渗透挑战赛LLM_Gateway_Public_Report](https://docs.qq.com/sheet/DUXBXY0R4VVNoaER1?nlc=1&tab=000001)_
 <img width="1332" height="875" alt="Clipboard_Screenshot_1779951470" src="https://github.com/user-attachments/assets/7d551f8d-86e2-478e-8782-8592a2d188f1" />
 
