@@ -25,7 +25,8 @@
 
 ### 🔥两届赛事高Star作品 
 - **第一届CyberStrikeAI（4k）**：[https://github.com/Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI)
-- **第二届Cairn（1.4k）**：[https://github.com/oritera/Cairn](https://github.com/oritera/Cairn)
+- **第二届Cairn（1.3k）**：[https://github.com/oritera/Cairn](https://github.com/oritera/Cairn)
+- **第一届LuaN1ao鸾鸟（0.9k）**：[https://github.com/SanMuzZzZz/LuaN1aoAgent](https://github.com/SanMuzZzZz/LuaN1aoAgent)
 <br>
 
 # ⚔️第二届前20优秀团队项目 / Top 20 Teams Project Navigation
