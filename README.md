@@ -1,4 +1,4 @@
-# Tsec-Hackathon - 腾讯云智能渗透黑客松
+# 🤖Tsec-Hackathon - 腾讯云智能渗透黑客松
 ### Tencent Cloud Intelligent Penetration Agent Hackathon
 <img width="1384" height="628" alt="Clipboard_Screenshot_1778561225" src="https://github.com/user-attachments/assets/a27d9032-1680-48b6-ae89-d2e752429fec" />
 
@@ -6,7 +6,7 @@
 
 ###### _This repository is the official event resource warehouse for Tencent Cloud Intelligent Penetration Hackathon, which mainly stores the defense PPTs, event materials and related technical documents of the winning teams of the first Intelligent Penetration Hackathon. It also integrates the open source project repository addresses of the top 20 outstanding teams in the event to build a one-stop navigation page for the field of Intelligent Penetration Agent, helping cybersecurity practitioners learn, communicate and innovate._
 
-## 赛事介绍 / Event Introduction
+## 📖赛事介绍 / Event Introduction
 
 腾讯云智能渗透黑客松由腾讯云鼎实验室主办，是国内 **首个聚焦 LLM 智能体全流程自动化渗透** 的顶级专业赛事。赛事已连续成功举办两届，持续引领「AI + 安全」前沿技术探索与高端安全人才培养方向。赛事秉持 **铸刃止戈、以智御危** 理念，深度推动大模型与网络安全场景融合创新，探索智能渗透技术落地实践路径，同时面向产学研各界搭建高端 AI 安全竞技舞台，为行业持续输送顶尖 AI 安全实战人才。
 
@@ -28,7 +28,7 @@
 - **第二届Cairn（1.4k）**：[https://github.com/oritera/Cairn](https://github.com/oritera/Cairn)
 <br>
 
-# 第二届前20优秀团队项目 / Top 20 Teams Project Navigation
+# ⚔️第二届前20优秀团队项目 / Top 20 Teams Project Navigation
 ###### _比赛时间：2026年4月（受技术发展速度影响，能力仅代表该时间节点）_
 
 本板块为赛事线上排名前二十的优秀团队开源项目仓库导航，涵盖智能渗透Agent的核心设计思路、技术实现与实战方案，是学习智能渗透技术的核心参考资源，排名按赛事最终成绩排序：
@@ -48,7 +48,7 @@
 > 
 <img width="1565" height="741" alt="Clipboard_Screenshot_1778492892" src="https://github.com/user-attachments/assets/71e9e7e6-79dc-471c-b5a4-a06369b09908" />
 
-### 赛事复盘分析 / Event Review and Analysis
+### 📈赛事复盘分析 / Event Review and Analysis
 > #### [两届腾讯云黑客松总结与分析](https://mp.weixin.qq.com/s/nzgX4OoqjJ75vkH4mlQJAw)
 > 
 > #### [腾讯云智能渗透挑战赛 Agent 架构分析-SecureNexusLab](https://mp.weixin.qq.com/s/juKnNknRpD1m4o7FWphMIA)
@@ -81,7 +81,7 @@
 >
 > #### [[看雪学苑]前沿观察 赛事纪实：从腾讯云黑客松，洞见智能体时代的攻防新格局](https://mp.weixin.qq.com/s/f94uaYgqiSSx-3Vz0kP4_Q)
 
-### 赛事模型网关日志报表 / LLM_Gateway_Public_Report
+### 📊赛事模型网关日志报表 / LLM_Gateway_Public_Report
 > #### 所有战队完整对话记录：_[https://challenge.zc.tencent.com/teams](https://challenge.zc.tencent.com/teams/64)_
 > #### TOP 50 战队模型使用情况分析报表： _[https://docs.qq.com/sheet/DUXBXY0R4VVNoaER1?nlc=1&tab=000001](https://docs.qq.com/sheet/DUXBXY0R4VVNoaER1?nlc=1&tab=000001)_
 <img width="1332" height="875" alt="Clipboard_Screenshot_1779951470" src="https://github.com/user-attachments/assets/7d551f8d-86e2-478e-8782-8592a2d188f1" />
@@ -89,7 +89,7 @@
 
 <br>
 
-# 首届前20优秀团队项目 / Top 20 Teams Project Navigation
+# ⚔️首届前20优秀团队项目 / Top 20 Teams Project Navigation
 ###### _比赛时间：2025年11月（受技术发展速度影响，能力仅代表该时间节点）_
 
 |排名|战队名|核心亮点|开源链接|
