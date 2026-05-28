@@ -18,12 +18,14 @@
 ###### _This section collects the repository navigation of open-source projects from the top 10 outstanding teams in the online rankings of the two competitions. It covers the core design concepts, technical implementation details, and practical attack and defense solutions of intelligent penetration Agents. It fully presents the technological evolution path from initial feasibility verification to implementation in advanced complex scenarios, serving as an authoritative reference resource for learning intelligent penetration technology and mastering core AI attack and defense capabilities._
 ###### _All rankings are strictly sorted by the final results of the two competitions to ensure the benchmark value and reference significance of the technical solutions._
 
-- **官方赛事页**：[https://zc.tencent.com/hackathon](https://zc.tencent.com/hackathon)
+- **赛事首页**：[https://zc.tencent.com/hackathon](https://zc.tencent.com/hackathon)
+- **比赛平台**：[https://challenge.zc.tencent.com](https://challenge.zc.tencent.com/)
+- **智能体社交论坛**：[https://nullzone.zc.tencent.com/feed](https://nullzone.zc.tencent.com/feed)
 - **答辩视频列表**：[https://space.bilibili.com/3690981341792399/lists/5042715?type=series](https://space.bilibili.com/3690981341792399/lists/5042715?type=series)
 
 <br>
 
-## 第二届前20优秀团队项目 / Top 20 Teams Project Navigation
+# 第二届前20优秀团队项目 / Top 20 Teams Project Navigation
 ###### _比赛时间：2026年4月（受技术发展速度影响，能力仅代表该时间节点）_
 
 本板块为赛事线上排名前二十的优秀团队开源项目仓库导航，涵盖智能渗透Agent的核心设计思路、技术实现与实战方案，是学习智能渗透技术的核心参考资源，排名按赛事最终成绩排序：
@@ -44,10 +46,11 @@
 <img width="1565" height="741" alt="Clipboard_Screenshot_1778492892" src="https://github.com/user-attachments/assets/71e9e7e6-79dc-471c-b5a4-a06369b09908" />
 
 ### 赛事复盘分析 / Event Review and Analysis
-
-> #### [两届TCH之后 —— AI 渗透测试 Agent 的 Harness 工程演进、防御与我的思考](https://mp.weixin.qq.com/s/pbieEet9VCR5iLhjViokIA)
-> 
 > #### [两届腾讯云黑客松总结与分析](https://mp.weixin.qq.com/s/nzgX4OoqjJ75vkH4mlQJAw)
+> 
+> #### [腾讯云智能渗透挑战赛 Agent 架构分析-SecureNexusLab](https://mp.weixin.qq.com/s/juKnNknRpD1m4o7FWphMIA)
+> 
+> #### [两届TCH之后 —— AI 渗透测试 Agent 的 Harness 工程演进、防御与我的思考](https://mp.weixin.qq.com/s/pbieEet9VCR5iLhjViokIA)
 > 
 > #### [再论 AI 渗透测试 Agent 的减法哲学](https://mp.weixin.qq.com/s/edRnn_ysx1lEvuCIbzJYOw)
 > 
@@ -75,9 +78,15 @@
 >
 > #### [[看雪学苑]前沿观察 赛事纪实：从腾讯云黑客松，洞见智能体时代的攻防新格局](https://mp.weixin.qq.com/s/f94uaYgqiSSx-3Vz0kP4_Q)
 
+### 赛事模型网关日志报表 / LLM_Gateway_Public_Report
+> #### _[所有战队完整对话记录](https://challenge.zc.tencent.com/teams/64)_
+> #### _[第二届腾讯云黑客松智能渗透挑战赛LLM_Gateway_Public_Report](https://docs.qq.com/sheet/DUXBXY0R4VVNoaER1?nlc=1&tab=000001)_
+<img width="1332" height="875" alt="Clipboard_Screenshot_1779951470" src="https://github.com/user-attachments/assets/7d551f8d-86e2-478e-8782-8592a2d188f1" />
+
+
 <br>
 
-## 首届前20优秀团队项目 / Top 20 Teams Project Navigation
+# 首届前20优秀团队项目 / Top 20 Teams Project Navigation
 ###### _比赛时间：2025年11月（受技术发展速度影响，能力仅代表该时间节点）_
 
 |排名|战队名|核心亮点|开源链接|
