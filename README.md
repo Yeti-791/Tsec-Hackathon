@@ -207,6 +207,9 @@
 ## 合作伙伴 / Collaborator
 <img width="1395" height="303" alt="Clipboard_Screenshot_1779868365" src="https://github.com/user-attachments/assets/2625a3db-2776-4917-85e5-8a856bad1163" />
 
+## 参考资料
+[Awesome Offensive AI List](https://github.com/Yeti-791/Tsec-Hackathon/blob/main/Awesome%20Offensive%20AI%20List.md)
+
 ## Star History
 
  <picture>
