@@ -330,7 +330,7 @@
 | 6 | **悬镜安全** | **灵脉 PTE** AI 自动化渗透测试平台 | [pte.xmirror.cn](https://pte.xmirror.cn/) | 结合漏扫工具与专家渗透优势，将专家能力训练为 AI，半自动化 / 自动化检测业务逻辑漏洞 |
 | 7 | **华云安** | **灵刃** 智能渗透与攻击模拟系统 | [huaun.com](https://huaun.com/) | 基于攻击链的智能渗透 + 攻击模拟，已发表于《信息安全研究》。以攻击者视角构建检测—响应闭环 |
 | 8 | **万径安全（Yaklang）** | **万径千机 / 小智** 智能渗透机器人 | [megavector.cn](https://www.megavector.cn/safetyProduct/xiaozhi/) | 国内首款融合知识图谱与大模型的智能渗透机器人，"AI+YAK" 双引擎（YAK 为自研网络安全语言）|
-| 9 | **长亭科技（腾讯系）** | chainreactors 系列研究 / 工具 | [chaitin.com](https://www.chaitin.com/) / [chainreactors](https://github.com/chainreactors) | 开源研究矩阵：[tinyctfer](https://github.com/chainreactors/tinyctfer)、[aide-for-pentest](https://github.com/chainreactors/aide-for-pentest)、APG 与 Meta Tooling 框架（腾讯 2025 智能渗透挑战赛 Top 4）|
+| 9 | **长亭科技** | 无锋 | [chaitin.com](https://www.chaitin.cn/xblade)  |--|
 
 ### 🎯 选型对照（按典型场景）
 *Pick by Scenario*
