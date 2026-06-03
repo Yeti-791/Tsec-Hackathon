@@ -323,14 +323,13 @@
 | # | 公司 | 产品 | 官网 | 产品定位与特色 |
 |---|------|------|------|---------------|
 | 1 | **绿盟科技** | 绿盟智能渗透系统 **AI-PTS** | [AI-PTS 产品页](https://www.nsfocus.com.cn/html/2026/651_0528/289.html) | 基于"风云卫大模型 SecLLM + 多智能体（MAS）"，2025-08 正式发布。聚焦 Web 应用安全测试与自动化渗透，含 8.8 万+ 漏洞知识图谱、8600+ POC 库 |
-| 2 | **斗象科技（漏洞盒子）** | **蛙池AI** | [digpool.cn](https://www.digpool.cn/) | 全球首款"原生 AI"漏洞挖掘工具 / 白帽工作台。对话式挖洞，AI 自主拆解渗透意图，内置 SQLi/XSS/RCE/上传等漏洞检测专家技能矩阵 |
-| 3 | **奇安信** | **AI 加特林** 自动化渗透测试系统 | [qianxin.com / AI](https://www.qianxin.com/topics/aiforsecurity) | "自动化漏洞攻击的火力平台"，能在数分钟内将漏洞公告转为可执行的渗透链；与 QAX-GPT 安全大模型联动 |
-| 4 | **安恒信息** | **AI 渗透测试智能体**（基于恒脑 3.0） | [dbappsecurity.com.cn](https://www.dbappsecurity.com.cn/) | 国内首个安全垂域大模型"恒脑"驱动的渗透 Agent，三大能力：自动化风险发现 + 任务规划、智能调度渗透工具、深度解析被动流量 |
-| 5 | **墨云科技** | **天查**大模型 + 自动化渗透智能体 | [moresec.com](https://www.moresec.com/) | 国内深耕网络攻防的标杆，AI 驱动主动攻击验证，定位业务资产中可被利用漏洞，输出风险闭环报告 |
-| 6 | **悬镜安全** | **灵脉 PTE** AI 自动化渗透测试平台 | [pte.xmirror.cn](https://pte.xmirror.cn/) | 结合漏扫工具与专家渗透优势，将专家能力训练为 AI，半自动化 / 自动化检测业务逻辑漏洞 |
-| 7 | **华云安** | **灵刃** 智能渗透与攻击模拟系统 | [huaun.com](https://huaun.com/) | 基于攻击链的智能渗透 + 攻击模拟，已发表于《信息安全研究》。以攻击者视角构建检测—响应闭环 |
-| 8 | **万径安全（Yaklang）** | **万径千机 / 小智** 智能渗透机器人 | [megavector.cn](https://www.megavector.cn/safetyProduct/xiaozhi/) | 国内首款融合知识图谱与大模型的智能渗透机器人，"AI+YAK" 双引擎（YAK 为自研网络安全语言）|
-| 9 | **长亭科技** | 无锋 | [chaitin.com](https://www.chaitin.cn/xblade)  |--|
+| 2 | **万径安全（Yaklang）** | **万径千机 / 小智** 智能渗透机器人 | [megavector.cn](https://www.megavector.cn/safetyProduct/xiaozhi/) | 国内首款融合知识图谱与大模型的智能渗透机器人，"AI+YAK" 双引擎（YAK 为自研网络安全语言）|
+| 3 | **长亭科技** | 无锋 | [chaitin.com](https://www.chaitin.cn/xblade)  |--|
+| 4 | **斗象科技（漏洞盒子）** | **蛙池AI** | [digpool.cn](https://www.digpool.cn/) | 全球首款"原生 AI"漏洞挖掘工具 / 白帽工作台。对话式挖洞，AI 自主拆解渗透意图，内置 SQLi/XSS/RCE/上传等漏洞检测专家技能矩阵 |
+| 5 | **奇安信** | **AI 加特林** 自动化渗透测试系统 | [qianxin.com / AI](https://www.qianxin.com/topics/aiforsecurity) | "自动化漏洞攻击的火力平台"，能在数分钟内将漏洞公告转为可执行的渗透链；与 QAX-GPT 安全大模型联动 |
+| 6 | **安恒信息** | **AI 渗透测试智能体**（基于恒脑 3.0） | [dbappsecurity.com.cn](https://www.dbappsecurity.com.cn/) | 国内首个安全垂域大模型"恒脑"驱动的渗透 Agent，三大能力：自动化风险发现 + 任务规划、智能调度渗透工具、深度解析被动流量 |
+| 7 | **悬镜安全** | **灵脉 PTE** AI 自动化渗透测试平台 | [pte.xmirror.cn](https://pte.xmirror.cn/) | 结合漏扫工具与专家渗透优势，将专家能力训练为 AI，半自动化 / 自动化检测业务逻辑漏洞 |
+
 
 ### 🎯 选型对照（按典型场景）
 *Pick by Scenario*
