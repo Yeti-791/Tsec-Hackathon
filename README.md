@@ -24,9 +24,9 @@
 - **答辩视频列表**：[https://space.bilibili.com/3690981341792399/lists/5042715?type=series](https://space.bilibili.com/3690981341792399/lists/5042715?type=series)
 
 ### 🔥两届赛事高Star作品 
-- **第一届CyberStrikeAI（4k）**：[https://github.com/Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI)
-- **第二届Cairn（1.3k）**：[https://github.com/oritera/Cairn](https://github.com/oritera/Cairn)
-- **第一届LuaN1ao鸾鸟（0.9k）**：[https://github.com/SanMuzZzZz/LuaN1aoAgent](https://github.com/SanMuzZzZz/LuaN1aoAgent)
+- **第一届CyberStrikeAI（4.1k）**：[https://github.com/Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI)
+- **第二届Cairn（1.5k）**：[https://github.com/oritera/Cairn](https://github.com/oritera/Cairn)
+- **第一届LuaN1ao鸾鸟（1k）**：[https://github.com/SanMuzZzZz/LuaN1aoAgent](https://github.com/SanMuzZzZz/LuaN1aoAgent)
 <br>
 
 # ⚔️第二届前20优秀团队项目 / Top 20 Teams Project Navigation
