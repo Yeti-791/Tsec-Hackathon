@@ -41,7 +41,7 @@
 |7|For Future|使用纯自然语言FSM执行引擎；秉持Less Than Nothing哲学，零领域知识是主动排除而非遗漏，为LLM涌现留出结构化空位；Coordinator/P2P/Craft三种组织模式让AI自组织，而非硬编码角色分工|[《Less Than Nothing》](https://github.com/Yeti-791/Tsec-Hackathon/blob/main/%E7%AC%AC%E4%BA%8C%E5%B1%8A%E6%99%BA%E8%83%BD%E6%B8%97%E9%80%8F%E9%BB%91%E5%AE%A2%E6%9D%BE/%E5%86%B3%E8%B5%9B%E7%AD%94%E8%BE%A9PPT/%5BTCH%E6%99%BA%E8%83%BD%E6%B8%97%E9%80%8F%E6%8C%91%E6%88%98%E8%B5%9B%5D%E7%AC%AC7%E5%90%8D%EF%BC%9AFor%20future.pdf)|[播放](https://www.bilibili.com/video/BV1PQ9YBKE57/?spm_id_from=333.1387.collection.video_card.click)|[aide-for-pentest](https://github.com/chainreactors/aide-for-pentest) |
 |17|爱吃大红袍茶叶蛋|-|-|-|[LingXi](https://github.com/adrian803/LingXi) |
 |18|青松|-|-|-|[llmnor](https://github.com/QingHeZhiZhou/llmnor) |
-|19|云南大学/西南石油大学|-|-|-|[cloudever_tecent_penetration](https://github.com/CloudEver-Team/cloudever_tecent_penetration_2026_4 )|
+|19|云南大学/西南石油大学|-|-|-|[cloudever_tecent_penetration](https://github.com/CloudEver-Team/cloudever_tecent_penetration_2026_4)|
 |20|别用假装努力掩盖懒惰|-|-|-|[hackathon-pentest](https://github.com/Threonine/hackathon-pentest) |
 
 ### 第二届获奖项目团队特色简介 / Team Feature Introduction
