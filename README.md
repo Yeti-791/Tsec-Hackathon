@@ -22,11 +22,13 @@
 - **比赛平台**：[https://challenge.zc.tencent.com](https://challenge.zc.tencent.com/)
 - **智能体社交论坛**：[https://nullzone.zc.tencent.com/feed](https://nullzone.zc.tencent.com/feed)
 - **答辩视频列表**：[https://space.bilibili.com/3690981341792399/lists/5042715?type=series](https://space.bilibili.com/3690981341792399/lists/5042715?type=series)
+- **赛事合作联系方式**：微信Wx62887799 (腾讯云鼎实验室攻防负责人李鑫)
 
 ### 🔥两届赛事高Star作品 
 - **第一届CyberStrikeAI（4.1k）**：[https://github.com/Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI)
 - **第二届Cairn（1.5k）**：[https://github.com/oritera/Cairn](https://github.com/oritera/Cairn)
 - **第一届LuaN1ao鸾鸟（1k）**：[https://github.com/SanMuzZzZz/LuaN1aoAgent](https://github.com/SanMuzZzZz/LuaN1aoAgent)
+
 <br>
 
 # ⚔️第二届前20优秀团队项目 / Top 20 Teams Project Navigation
@@ -50,6 +52,12 @@
 <img width="1565" height="741" alt="Clipboard_Screenshot_1778492892" src="https://github.com/user-attachments/assets/71e9e7e6-79dc-471c-b5a4-a06369b09908" />
 
 ### 📈赛事复盘分析 / Event Review and Analysis
+> #### [[Freebuf]智能攻防元年：渗透测试Agent迎来大考，AI如何从“能打”走向“可控”](https://mp.weixin.qq.com/s/QzLs_Lz8RG85V5uMnqOmhg)
+> 
+> #### [[看雪学苑]前沿观察 赛事纪实：从腾讯云黑客松，洞见智能体时代的攻防新格局](https://mp.weixin.qq.com/s/f94uaYgqiSSx-3Vz0kP4_Q)
+>
+> #### [重新定义智能渗透：TCH优秀开源项目CyberStrikeAI 技术解析与行业观察](https://mp.weixin.qq.com/s/5_lyIfX97xTEQO_pWmHbVg)
+> 
 > #### [两届腾讯云黑客松总结与分析](https://mp.weixin.qq.com/s/nzgX4OoqjJ75vkH4mlQJAw)
 > 
 > #### [腾讯云智能渗透挑战赛 Agent 架构分析-SecureNexusLab](https://mp.weixin.qq.com/s/juKnNknRpD1m4o7FWphMIA)
@@ -72,15 +80,15 @@
 > 
 > #### [记一次腾讯云智能渗透挑战赛复盘](https://mp.weixin.qq.com/s/6U1zcLv1HzhAYCGhGTAEmA)
 > 
-> #### [[Freebuf]智能攻防元年：渗透测试Agent迎来大考，AI如何从“能打”走向“可控”](https://mp.weixin.qq.com/s/QzLs_Lz8RG85V5uMnqOmhg)
-> 
 > #### [浪潮将至--腾讯智能渗透赛冠军之夜回顾](https://mp.weixin.qq.com/s/gaZBZC3j_QiaSVs6mcZQAQ)
 > 
 > #### [AI 时代的旁观者 - 第二届腾讯云黑客松智能渗透挑战赛赛后记录](https://mp.weixin.qq.com/s/fLax4LC-vK2DNGYDtX_URQ)
 > 
 > #### [从零构建 AI 渗透测试 Agent：TCH 智能渗透黑客松实战复盘](https://mp.weixin.qq.com/s/lRp0ztT95JoY1GZdbm8irg)
 >
-> #### [[看雪学苑]前沿观察 赛事纪实：从腾讯云黑客松，洞见智能体时代的攻防新格局](https://mp.weixin.qq.com/s/f94uaYgqiSSx-3Vz0kP4_Q)
+> #### [TCH智能渗透赛: 你的下一个渗透 AI 为什么一定要是渗透 AI？](https://mp.weixin.qq.com/s/MVLOBPWJPkvpzugRLc66Mg)
+>
+
 
 ### 📊赛事模型网关日志报表 / LLM_Gateway_Public_Report
 > #### 所有战队完整对话记录：_[https://challenge.zc.tencent.com/teams](https://challenge.zc.tencent.com/teams/64)_
@@ -88,7 +96,6 @@
 <img width="1335" height="781" alt="Clipboard_Screenshot_1779957960" src="https://github.com/user-attachments/assets/e40cdb4f-1c13-459e-bd1a-c04c1b74981a" />
 
 ###### _更新：之前名次有误_
-
 
 <br>
 
@@ -113,7 +120,7 @@
 |35|中传C1JC战队|基于OODA的迭代式笔记本问题求解自主代理|[AgentNote](https://github.com/C1JC/AgentNote)|
 > #### _[获奖团队答辩PPT下载](https://github.com/Yeti-791/Tsec-Hackathon/tree/main/%E9%A6%96%E5%B1%8A%E6%99%BA%E8%83%BD%E6%B8%97%E9%80%8F%E9%BB%91%E5%AE%A2%E6%9D%BE)_
 > 
-### 首届特色团队简介 / Team Feature Introduction
+#### 首届特色团队简介 / Team Feature Introduction
 
 1. **xjtuHunter**（西安交通大学）：由网络空间安全学院师生组成，深耕智能攻击检测、自动化漏洞挖掘，研究成果发表于ASE、NDSS等国际顶级会议。
 
@@ -121,7 +128,7 @@
 
 3. **BinX**（广州大学）：秉承方滨兴院士育人理念，承担多项国家级重大课题及大型赛事网络安全保障，深耕智能攻防与自动化渗透。
 
-### 赛事复盘分析 / Event Review and Analysis
+#### 赛事复盘分析 / Event Review and Analysis
 > #### [四川大学；清华大学等：黑客还是幻觉？基于大语言模型的自动化渗透测试全面分析](https://mp.weixin.qq.com/s/fRBIupvLuXLFE0bwLTwHyQ)
 >
 > #### [渗透成功率超94%！长亭科技AI自主渗透智能体再获“腾讯云黑客松”决赛冠军](https://mp.weixin.qq.com/s/Qo2ndqu09TwNH7-Vq3x0iw)
@@ -134,23 +141,7 @@
 
 <br>
 
-## 资料使用说明 / Usage Instructions
-
-1. **克隆仓库**：将本仓库克隆至本地，浏览所有赛事资料与团队导航信息
-
-    ```Bash
-    
-    git clone https://github.com/Yeti-791/Tsec-Hackathon.git
-    cd Tsec-Hackathon
-    ```
-
-2. **资料查阅**：进入`首期智能渗透黑客松/`目录，下载各团队答辩PPT，了解智能渗透Agent设计思路；通过本仓库**前十团队项目导航**板块，快速访问各团队开源项目。
-
-3. **资料更新**：本仓库将持续同步赛事官方最新公示信息、各团队开源项目地址及后续黑客松赛事资料，可通过`git pull`获取最新内容。
-
-###### _All materials in the repository are only for technical learning and communication in the field of network security. Please abide by the relevant open source agreements of each team when using the open source project resources of each team._
-
-## 赛事奖励 / Event Rewards
+## 🏆赛事奖励 / Event Rewards
 
 本次黑客松设置丰厚的现金奖励与开源贡献奖，鼓励AI安全技术创新与开源共享：
 
@@ -166,49 +157,33 @@
 
 ###### _The event takes "AI-driven penetration" as the core orientation, and strictly restricts manual penetration operations, creating a fair, transparent and technology-oriented competition atmosphere._
 
-## 贡献指南 / Contribution Guide
+<br>
 
-本仓库作为**智能渗透Agent领域导航页面**，欢迎网络安全从业者参与共建，补充赛事资料与团队项目信息：
-
-1. 提交**Issue**：反馈团队仓库地址更新、赛事资料缺失或提出新的导航需求（地址：[https://github.com/Yeti-791/Tsec-Hackathon/issues](https://github.com/Yeti-791/Tsec-Hackathon/issues)）
-
-2. 提交**Pull Request**：按仓库目录规范补充赛事资料、更新团队开源项目地址，提交前确保文件命名清晰。
-
-3. 直接联系：官方微信群。
-
-## 致谢 / Acknowledgements
-
-1. 感谢腾讯安全为本届智能渗透黑客松的策划、运营与技术支持提供的核心保障；
-
-2. 感谢所有参赛团队的技术创新与开源分享，推动AI大模型与智能渗透技术的融合发展；
-
-3. 感谢北京大学、清华大学、华中科技大学、西安交通大学、广州大学、国防科技大学、南洋理工大学、成都信息工程大学、中国电科院、天翼安全、京东科技、中国电信、长亭科技、绿盟科技、安恒信息、等产学研机构对赛事的支持与参与；
-
-4. 感谢所有为网络安全AI技术生态建设贡献力量的开发者与社区。
-
-## 免责声明 / Disclaimer
-
-1. 本仓库所有赛事资料均来源于腾讯智能渗透黑客松官方发布，仅用于**网络安全技术学习与交流**，禁止用于商业用途；
-
-2. 各团队开源项目仓库的使用需遵循对应项目的开源协议，本仓库仅作导航链接，不承担相关协议解释与责任；
-
-3. 若涉及资料版权或项目链接更新问题，请及时联系仓库维护者进行处理。
-
-## 官方信息 / Official Information
-
-- **赛事官方页**：[腾讯智能渗透挑战赛](https://zc.tencent.com/hackathon)
-
-- **黑客松仓库地址**：[https://github.com/Yeti-791/Tsec-Hackathon](https://github.com/Yeti-791/Tsec-Hackathon)
-
-- **腾讯安全沙龙官网**：[https://zc.tencent.com/salon](https://zc.tencent.com/salon)
-
-- **赛事合作联系方式**：微信Wx62887799
-
-## 合作伙伴 / Collaborator
+## 🤝合作伙伴 / Collaborator
 <img width="1395" height="303" alt="Clipboard_Screenshot_1779868365" src="https://github.com/user-attachments/assets/2625a3db-2776-4917-85e5-8a856bad1163" />
 
-## 参考资料
-[Awesome Offensive AI List](https://github.com/Yeti-791/Tsec-Hackathon/blob/main/Awesome%20Offensive%20AI%20List.md)
+## 📚学习资料 / Learning assets
+*Offensive AI Agentic 全景：开源项目 / 论文 / Benchmark / 商业产品 一览*  
+本文档系统整理了 AI 渗透测试 / LLM 红队 / 自主攻击 Agent / 漏洞挖掘 领域的开源项目、学术论文、能力评测 Benchmark 与国内外商业化解决方案，旨在帮助研究者、安全工程师与企业安全决策者快速建立领域全景认知。
+###### _This document curates open-source projects, academic papers, capability benchmarks, and commercial solutions (international & China) in the field of AI penetration testing, LLM red teaming, autonomous offensive agents, and vulnerability discovery, aimed at helping researchers, security engineers, and enterprise decision-makers quickly form a holistic view._
+
+[https://github.com/Yeti-791/Awesome-Offensive-AI-Agentic-Landscape](https://github.com/Yeti-791/Awesome-Offensive-AI-Agentic-Landscape)
+
+<br>
+
+## 💝致谢 / Acknowledgements
+
+由衷感谢腾讯安全云鼎实验室、广州大学、新安盟为本届智能渗透黑客松在策划、运营及技术保障方面提供的大力支持；感谢全体参赛团队积极开展技术创新并乐于开源分享，助力 AI 大模型与智能渗透技术深度融合；同时感谢北京大学、清华大学、华中科技大学、西安交通大学、国防科技大学、南洋理工大学、成都信息工程大学、中国电科院、天翼安全、京东科技、中国电信、长亭科技、绿盟科技、安恒信息等各大高校、企业与科研机构对赛事的参与和鼎力支持；最后向所有为网络安全 AI 技术生态建设付出努力的开发者与社区致以诚挚谢意。
+###### _We sincerely appreciate Tencent Security Yunding Lab, Guangzhou University and Xin'an Alliance for their core support in the planning, operation and technical guarantee of the Intelligent Penetration Hackathon. We thank all participating teams for their technological innovation and open-source sharing, which promote the integrated development of large language models and intelligent penetration technologies. We also extend our gratitude to Peking University, Tsinghua University, Huazhong University of Science and Technology, Xi'an Jiaotong University, National University of Defense Technology, Nanyang Technological University, Chengdu University of Information Technology, China Electric Power Research Institute, Tianyi Security, JD Technology, China Telecom, Chaitin Tech, NSFOCUS, DBAPPSecurity and other universities, enterprises and research institutions for their participation and support. Special thanks go to all developers and communities that contribute to the development of the cybersecurity AI ecosystem._
+
+<br>
+
+## ⚠️ 免责声明 / Disclaimer
+
+本仓库内所有赛事资料均来自腾讯智能渗透黑客松官方公开内容，仅供网络安全技术学习与交流使用，严禁用于商业用途、黑客攻击及各类非法活动。仓库仅对各团队开源项目提供导航链接，使用相关项目请严格遵守其自身开源协议，本仓库不承担协议解读及相关法律责任。如存在版权争议或链接失效、信息更新等问题，请及时联系仓库维护人员处理。
+###### _All competition materials in this repository are officially released by Tencent Intelligent Penetration Hackathon, and are intended solely for cybersecurity technical learning and communication. Commercial use, hacking activities and any other illegal applications are strictly prohibited. This repository only provides navigation links to open-source projects of each team. Users shall abide by the corresponding open-source licenses of those projects, and we assume no responsibility for license interpretation or related disputes. Please contact the repository maintainers promptly if you encounter copyright issues, broken links or information updates._
+
+<br>
 
 ## Star History
 
