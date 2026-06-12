@@ -1,0 +1,46 @@
+name: CI
+
+on:
+  push:
+    branches: [main, dev]
+  pull_request:
+    branches: [main, dev]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Markdown Lint
+        uses: DavidAnson/markdownlint-cli2-action@v19
+        with:
+          globs: '**/*.md'
+        continue-on-error: true
+
+      - name: Check Links
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          use-quiet-mode: 'yes'
+          use-verbose-mode: 'yes'
+        continue-on-error: true
+
+  validate-yaml:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate YAML files
+        run: |
+          pip install pyyaml
+          python -c "
+          import yaml, glob, sys
+          errors = 0
+          for f in glob.glob('**/*.y*ml', recursive=True):
+              try:
+                  with open(f) as fh: yaml.safe_load(fh)
+                  print(f'OK: {f}')
+              except Exception as e:
+                  print(f'FAIL: {f} - {e}')
+                  errors += 1
+          sys.exit(1 if errors else 0)
+          "
