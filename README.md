@@ -25,8 +25,8 @@
 - **赛事合作联系方式**：微信Wx62887799 (腾讯云鼎实验室攻防负责人李鑫)
 
 ### 🔥两届赛事高Star作品 
-- **第一届CyberStrikeAI（4.1k）**：[https://github.com/Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI)
-- **第二届Cairn（1.5k）**：[https://github.com/oritera/Cairn](https://github.com/oritera/Cairn)
+- **第一届CyberStrikeAI（4.4k）**：[https://github.com/Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI)
+- **第二届Cairn（1.6k）**：[https://github.com/oritera/Cairn](https://github.com/oritera/Cairn)
 - **第一届LuaN1ao鸾鸟（1k）**：[https://github.com/SanMuzZzZz/LuaN1aoAgent](https://github.com/SanMuzZzZz/LuaN1aoAgent)
 
 <br>
