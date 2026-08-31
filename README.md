@@ -182,11 +182,3 @@
 ###### _All competition materials in this repository are officially released by Tencent Intelligent Penetration Hackathon, and are intended solely for cybersecurity technical learning and communication. Commercial use, hacking activities and any other illegal applications are strictly prohibited. This repository only provides navigation links to open-source projects of each team. Users shall abide by the corresponding open-source licenses of those projects, and we assume no responsibility for license interpretation or related disputes. Please contact the repository maintainers promptly if you encounter copyright issues, broken links or information updates._
 
 <br>
-
-## Star History
-
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=m-sec-org/BreachWeave%2Coritera/Cairn%2Cchainreactors/aide-for-pentest%2Cadrian803/LingXi%2CQingHeZhiZhou/llmnor%2CCloudEver-Team/cloudever_tecent_penetration_2026_4%2CThreonine/hackathon-pentest%2CSanMuzZzZz/LuaN1aoAgent%2Cchainreactors/tinyctfer%2Cm-sec-org/xbow-competition%2Cyhy0/CHYing-agent%2CEd1s0nZ/CyberStrikeAI%2CMuWinds/BUUCTF_Agent%2Chexian2001/H-Pentest&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=m-sec-org/BreachWeave%2Coritera/Cairn%2Cchainreactors/aide-for-pentest%2Cadrian803/LingXi%2CQingHeZhiZhou/llmnor%2CCloudEver-Team/cloudever_tecent_penetration_2026_4%2CThreonine/hackathon-pentest%2CSanMuzZzZz/LuaN1aoAgent%2Cchainreactors/tinyctfer%2Cm-sec-org/xbow-competition%2Cyhy0/CHYing-agent%2CEd1s0nZ/CyberStrikeAI%2CMuWinds/BUUCTF_Agent%2Chexian2001/H-Pentest&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=m-sec-org/BreachWeave%2Coritera/Cairn%2Cchainreactors/aide-for-pentest%2Cadrian803/LingXi%2CQingHeZhiZhou/llmnor%2CCloudEver-Team/cloudever_tecent_penetration_2026_4%2CThreonine/hackathon-pentest%2CSanMuzZzZz/LuaN1aoAgent%2Cchainreactors/tinyctfer%2Cm-sec-org/xbow-competition%2Cyhy0/CHYing-agent%2CEd1s0nZ/CyberStrikeAI%2CMuWinds/BUUCTF_Agent%2Chexian2001/H-Pentest&type=date&legend=top-left" />
- </picture>
