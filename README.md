@@ -1,20 +1,20 @@
-# 🤖Tsec-Hackathon - 腾讯云智能渗透黑客松
-### Tencent Cloud Intelligent Penetration Agent Hackathon
-<img width="1384" height="628" alt="Clipboard_Screenshot_1778561225" src="https://github.com/user-attachments/assets/a27d9032-1680-48b6-ae89-d2e752429fec" />
+# 🤖Tsec-Hackathon - 腾讯云智能攻防挑战赛
+### Tencent Cloud Autonomous AI Attack-Defense Challenge
+<img alt="Tencent Cloud Autonomous AI Attack-Defense Challenge" src="https://github.com/user-attachments/assets/dd7e1afc-0d54-47a1-bb60-73572b571f68" />
 
-本仓库为**腾讯云智能渗透黑客松**官方赛事资源仓，存放黑客松获奖团队答辩PPT、赛事物料及相关技术资料，同时整合赛事前二十优秀团队的开源项目仓库地址，打造**智能渗透Agent领域一站式导航页面**，助力网络安全从业者学习、交流与创新。
+本仓库为**腾讯云智能攻防挑战赛**官方赛事资源仓，存放获奖团队答辩PPT、赛事物料及相关技术资料，同时整合历届赛事前二十优秀团队的开源项目仓库地址，打造**AI 安全智能体领域一站式导航页面**，助力网络安全从业者学习、交流与创新。
 
-###### _This repository is the official event resource warehouse for Tencent Cloud Intelligent Penetration Hackathon, which mainly stores the defense PPTs, event materials and related technical documents of the winning teams of the first Intelligent Penetration Hackathon. It also integrates the open source project repository addresses of the top 20 outstanding teams in the event to build a one-stop navigation page for the field of Intelligent Penetration Agent, helping cybersecurity practitioners learn, communicate and innovate._
+###### _This is the official resource repository for the Tencent Cloud Autonomous AI Attack-Defense Challenge (formerly the Tencent Cloud Intelligent Penetration Hackathon). It archives winning teams' defense decks, event materials and technical write-ups, and curates the open-source repositories of the top 20 teams across all editions — a one-stop navigation hub for AI-powered offensive security, autonomous penetration agents and multi-agent attack-defense systems._
 
 ## 📖赛事介绍 / Event Introduction
 
-腾讯云智能渗透黑客松由腾讯云鼎实验室主办，是国内 **首个聚焦 LLM 智能体全流程自动化渗透** 的顶级专业赛事。赛事已连续成功举办两届，持续引领「AI + 安全」前沿技术探索与高端安全人才培养方向。赛事秉持 **铸刃止戈、以智御危** 理念，深度推动大模型与网络安全场景融合创新，探索智能渗透技术落地实践路径，同时面向产学研各界搭建高端 AI 安全竞技舞台，为行业持续输送顶尖 AI 安全实战人才。
+腾讯云智能攻防挑战赛（原「腾讯云黑客松智能渗透挑战赛」）由腾讯云鼎实验室主办，是国内 **首个聚焦 LLM 智能体全流程自动化渗透** 的顶级专业赛事。赛事已连续成功举办三届，持续引领「AI + 安全」前沿技术探索与高端安全人才培养方向。赛事秉持 **铸刃止戈、以智御危** 理念，深度推动大模型与网络安全场景融合创新，探索智能渗透技术落地实践路径，同时面向产学研各界搭建高端 AI 安全竞技舞台，为行业持续输送顶尖 AI 安全实战人才。
 
-###### _Tencent Cloud Intelligent Penetration Hackathon, hosted by Tencent Cloud Yunding Lab, is China’s first top-tier professional competition focusing on full-process automated penetration based on LLM agents.Successfully held for two consecutive sessions, the event keeps spearheading cutting-edge exploration in AI + cybersecurity and the cultivation of high-end security talents.Upholding the philosophy of Forging Blades to Defend Threats, Guarding Risks with Intelligence, the competition deeply drives the integrated innovation of large models and cybersecurity scenarios, and explores the practical implementation path of intelligent penetration technologies.It also builds a high-end AI security arena for industry, academia and research communities, continuously delivering top practical AI security talents to the industry._
+###### _Hosted by Tencent Cloud Yunding Lab, the Tencent Cloud Autonomous AI Attack-Defense Challenge (formerly the Tencent Cloud Intelligent Penetration Hackathon) is China's first top-tier competition focused on full-process autonomous penetration testing with LLM-powered agents. Now in its third edition, the event leads the frontier of AI + cybersecurity, advancing the deep integration of large models and security scenarios while cultivating elite AI security talent. Upholding the philosophy of "Forging Blades to Defend Threats, Guarding Risks with Intelligence," the challenge has evolved from autonomous penetration and complex network breakthrough to multi-agent head-to-head attack-defense, building a high-end arena where industry, academia and research communities sharpen AI offensive and defensive capabilities together._
 
-两届赛事累计汇聚800 + 支战队、千余名顶尖选手，产出 20 套顶尖智能渗透技术框架，形成 “赛事实践 - 技术沉淀 - 开源共享 - 行业赋能” 的良性循环。本板块收录两届赛事线上排名前十优秀团队的开源项目仓库导航，涵盖智能渗透 Agent 的核心设计思路、技术实现细节、实战攻防方案，完整呈现从初代可行性验证到高阶复杂场景落地的技术演进路径，是学习智能渗透技术、掌握 AI 攻防核心能力的权威参考资源。
+三届赛事累计汇聚1500余支战队、3000余名顶尖选手，产出 20余 套顶尖智能渗透技术框架，形成 “赛事实践 - 技术沉淀 - 开源共享 - 行业赋能” 的良性循环。本板块收录历届赛事线上排名前十优秀团队的开源项目仓库导航，涵盖智能渗透 Agent 的核心设计思路、技术实现细节、实战攻防方案，完整呈现从初代可行性验证到高阶复杂场景落地的技术演进路径，是学习智能渗透技术、掌å握 AI 攻防核心能力的权威参考资源。
 
-###### _Over the two competitions, more than 800 teams and over 1,000 top participants took part. Twenty state-of-the-art intelligent penetration frameworks were delivered, building a virtuous cycle featuring competition practice, technical accumulation, open-source sharing and industry empowerment. This section provides links to open-source repositories of the top 10 teams from the online stages of both events. It includes core design concepts, technical implementation details and practical attack and defense solutions for intelligent penetration agents, and fully presents the technical evolution from initial feasibility verification to deployment in sophisticated scenarios. It serves as an authoritative reference for learning intelligent penetration technologies and mastering core AI offensive and defensive capabilities._
+###### _Across three editions, the challenge has attracted 1,500+ teams and 3,000+ participants, producing 20+ open-source autonomous penetration frameworks and forming a virtuous cycle of competition-driven practice, technical accumulation, open-source sharing and industry empowerment. This section indexes the top-ranked teams' open-source repositories, covering core agent architectures, technical implementations and real-world attack-defense solutions — an authoritative reference for learning autonomous penetration technologies and mastering AI offensive security._
 
 - **赛事首页**：[https://zc.tencent.com/hackathon](https://zc.tencent.com/hackathon)
 - **比赛平台**：[https://challenge.zc.tencent.com](https://challenge.zc.tencent.com/)
@@ -22,10 +22,78 @@
 - **答辩视频列表**：[https://space.bilibili.com/3690981341792399/lists/5042715?type=series](https://space.bilibili.com/3690981341792399/lists/5042715?type=series)
 - **赛事合作联系方式**：微信Wx62887799 (腾讯云鼎实验室攻防负责人李鑫)
 
-### 🔥两届赛事高Star作品 
-- **第一届CyberStrikeAI（6.6k）**：[https://github.com/Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI)
-- **第二届Cairn（2.8k）**：[https://github.com/oritera/Cairn](https://github.com/oritera/Cairn)
-- **第一届LuaN1ao鸾鸟（1.3k）**：[https://github.com/SanMuzZzZz/LuaN1aoAgent](https://github.com/SanMuzZzZz/LuaN1aoAgent)
+### 🔥历届赛事高Star作品 
+- **ARTEX（18k，腾讯 TSecBench 承办的「百度 Agent+」攻防大赛冠军）**：[https://github.com/BaaRai/ARTEX](https://github.com/BaaRai/ARTEX)（原仓库 Autumn-27/ARTEX 已闭源，此为其社区镜像）
+- **第一届CyberStrikeAI（9k）**：[https://github.com/Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI)
+- **第二届Cairn（5.8k）**：[https://github.com/oritera/Cairn](https://github.com/oritera/Cairn)
+- **第三届sapper-v2（2.6k，线上赛冠军）**：[https://github.com/N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2)
+- **第一届LuaN1ao鸾鸟（1.5k）**：[https://github.com/SanMuzZzZz/LuaN1aoAgent](https://github.com/SanMuzZzZz/LuaN1aoAgent)
+
+<br>
+
+# ⚔️第三届前20优秀团队项目 / Top 20 Teams Project Navigation
+###### _比赛时间：2026年10月（受技术发展速度影响，能力仅代表该时间节点）_
+
+第三届赛事（原「腾讯云黑客松智能渗透挑战赛」）全面升级为「腾讯云智能攻防挑战赛」，以「人类铸剑·AI 争王」为主题，是国内首个 Agent 安全攻防赛，共吸引 634 支战队参赛，覆盖百余所高校及安全、金融、电力、通信等行业。赛事设三条赛道：「王座协议」主赛场（AI-KOH 赛制，多智能体同场争夺据点）、安全智子专项挑战赛（纯本地离线、禁用云端大模型、2 台 NVIDIA DGX Spark）、智能漏洞挖掘挑战赛（面向授权真实业务场景）。线下决赛于 2026 年 10 月 30 日在深圳国际会展中心举办，暨 TSecCon 腾讯安全大会。
+
+###### _The third edition was fully upgraded into the Tencent Cloud Autonomous AI Attack-Defense Challenge, China's first Agent security attack-defense competition, attracting 634 teams across three tracks: the AI-KOH Main Arena, the offline Security Zhizi Track, and the Intelligent Vulnerability Discovery Track._
+
+### 🏅决赛最终排名（王座协议主赛场）/ Final Ranking (Main Arena)
+
+|奖项|战队名|单位|
+|---|---|---|
+|一等奖|alkaerr|四川大学|
+|二等奖|whatcanisay|顺丰成文实验室|
+|二等奖|Cruiser|香港城市大学（东莞）、中国科学院信息工程研究所、太原理工大学|
+|三等奖|薄肌黄毛会点AI|Aarhus University, The University of Hong Kong|
+|三等奖|LAVA|四川大学|
+|三等奖|B1ue|个人|
+|优秀奖|烈鹰战队|绿盟科技|
+|优秀奖|0x300|长亭科技|
+|优秀奖|purplebud|清华大学|
+|优秀奖|0xspy|广州奇盾信息技术有限公司|
+|优秀奖|GuanXing|自由参赛组|
+|优秀奖|ChainAxiom|杭州链式反应科技有限公司|
+
+### 🏅安全智子专项挑战赛排名 / Security Zhizi Track Ranking
+
+|奖项|战队名|单位|
+|---|---|---|
+|一等奖|金银湖队|武汉金银湖实验室、华中科技大学网络安全学院|
+|二等奖|光明未来|国防科技大学|
+|三等奖|0x300|北京长亭科技有限公司|
+|优秀奖|Mindset|青藤云安全|
+|优秀奖|JoyHunter|京东|
+|优秀奖|Reward Hacking|浙江大学|
+|优秀奖|SN-天虞|南京赛宁信息技术有限公司|
+|优秀奖|NSCERT|绿盟科技|
+
+### 🌟第三届优秀团队开源项目 / Open-source Projects
+
+- **sapper-v2（线上赛冠军）**：多智能体协作自动化渗透框架，8 小时全程无人值守，综合分 80.18/100、85 面 flag，仅消耗约 10 亿 token：[sapper-v2](https://github.com/N1nEmAn/sapper-v2)
+- **SapperLens（sapper-v2 逐题复盘数据）**：[SapperLens](https://github.com/inwpu/SapperLens)
+
+### 📈赛事复盘分析 / Event Review and Analysis
+> #### [第三届腾讯云智能攻防挑战赛线上赛第一名：sapper-v2 的架构、角色分工与提示词](http://mp.weixin.qq.com/s?__biz=MzIyNDg2MDQ4Ng==&mid=2247488339&idx=1&sn=01f56a8b944ec87824ef62fa1c6a92d4)
+>
+> #### [AI打AI防：初赛第一之后，sapper-v2 在智能攻防挑战赛决赛遇到了什么？](https://mp.weixin.qq.com/s/PcuvhwbE4_D9Z3jYvnq3fA)
+>
+> #### [初赛第10、决赛第2：成文实验室 whatcanisay 战队 Cerberus Agent 的设计亮点与翻盘打法](https://cn-sec.com/archives/5589269.html)
+>
+> #### [速存！第三届腾讯云智能攻防挑战初赛冠军项目开源](http://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247503632&idx=1&sn=cba15b8f1c7a625fbd12e3bb2500a1e8)
+>
+> #### [AI军团第一次仰望星空：腾讯智能攻防冠军项目sapper-v2解读](http://mp.weixin.qq.com/s?__biz=MzI1Mzg2MjAxNQ==&mid=2247494302&idx=1&sn=43107482531bd44ccc50dfdb006c38eb)
+>
+> #### [634支AI战队角逐！奇盾信息 0xspy 战队初赛攻防赛第三名](http://mp.weixin.qq.com/s?__biz=MzkzNTM3NzQ5OA==&mid=2247487293&idx=1&sn=4ad3ec08faced9d189e53ef7dac723b4)
+>
+> #### [武汉金银湖实验室斩获一等奖！智攻善防，勇攀腾讯云智能攻防挑战赛高峰](http://mp.weixin.qq.com/s?__biz=Mzg2NDg3NjUxMg==&mid=2247485352&idx=1&sn=cd053683b017c1d0ca76c3172b03a4fd)
+>
+> #### [激战48小时！634支AI战队角逐！腾讯云智能攻防挑战赛初赛10强出炉（云鼎实验室）](http://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247498036&idx=1&sn=05a490585504627035948f385538e554)
+>
+> #### [四川大学alkaerr战队夺冠，第三届腾讯云智能攻防挑战赛收官（腾讯安全）](http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&mid=2247531429&idx=1&sn=7817c17da9bd53272c4d32059b70a7bf)
+>
+> #### [从"AI渗透"到"AI攻防"：第三届智能攻防挑战赛的进阶与变局（数世咨询）](https://zhuanlan.zhihu.com/p/2101385720434778726)
+>
 
 <br>
 
